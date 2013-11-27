@@ -1,0 +1,3077 @@
+port-au-prince|location
+port au prince|location
+leogane|location
+petionville|location
+pétionville|location
+jacmel|location
+les cayes|location
+tabarre|location
+delmas|location
+bourdon|location
+cap haitien|location
+gressier|location
+fontamara|location
+léogâne|location
+delmas 33|location
+delmas 73|location
+delmas 75|location
+turgeau|location
+hotel montana|location
+petion-ville|location
+jimani|location
+bon repos|location
+canape vert|location
+carrefour moussignac|location
+hinche|location
+nazon|location
+petit goave|location
+cap-haïtien|location
+gonaives|location
+grand goave|location
+haiti|location
+christ roi|location
+minustah|entity
+pacot|location
+pap airport|location
+kenscoff|location
+konnen|action
+musseau|location
+petion ville|location
+undac|entity
+cite soleil|location
+milot|location
+bezwen|action
+bizoton|location
+croix-des-bouquets|location
+delmas 19|location
+delmas 65|location
+delmas 95|location
+freres|location
+la plaine|location
+ruelle|entity
+trouin|location
+arcahaie|location
+carrefour feuilles|location
+fermathe|location
+fontamara 43|location
+lalue|location
+quisqueya christian school|location
+route frere|entity
+saint-marc|location
+villa creole|location
+choscal|entity
+delmas 31|location
+fort mercredi|location
+grand goâve|location
+icrc|entity
+jacmel airport|location
+jeremie|location
+lafond|location
+michael ritter|entity
+national palace|location
+petit goâve|location
+pont morin|location
+route freres|location
+ruelle toussaint|location
+unibank|entity
+jacquet|location
+collapsed|action
+pap|location
+carrefour|location
+delma|entity
+bois verna|location
+canapevert|location
+cange|location
+cap-haitien|location
+carlo lochard|entity
+carrefour-feuilles|location
+carribean supermarket|location
+champsmar|entity
+darbonne|location
+darbonne sugar mill|location
+delmas 40b|location
+delmas 48|location
+delmas a1|location
+diquini|entity
+evelyn bourdeau|entity
+fontamara 27|location
+fosaj|location
+gros morne parish|location
+haiti block|entity
+hopital sacre coeur|entity
+jumbala|entity
+labadee|location
+laboule|entity
+leonard street|location
+mellier|location
+monbin lataille|entity
+montrouis|location
+national public health laboratory|location
+nerette|entity
+osocc|entity
+petionville club|location
+petit-goave|location
+place boyer|entity
+plaine|location
+rue amiral|entity
+rue cassagnol|entity
+rue cassagnol #14|location
+rue marcadieu|location
+rue merisier|location
+ruelle robin|location
+saint gerard|location
+sainte bernadette|location
+se2|entity
+sogebank|location
+st. marc|entity
+tabarre 41|location
+turjo|location
+unasmoh|entity
+unibank bourdon|location
+vital lines|entity
+vivi mitchell|location
+trapped|action
+damaged|action
+msf|entity
+foyer|entity
+orphanage|location
+#5 impasse de la rivière monbin lataille|location
+18.546674/-72.315938|location
+18°34'47 n|location
+66 rue st. girard|location
+72°17'34 w|location
+acierie haiti|location
+airport port au prince|location
+alfred vieux|entity
+altagrace pierre|entity
+antibiotiques|entity
+antigrippal|entity
+anviron|action
+anxiolitiques|entity
+aristide foundation|entity
+aurora aguinaldo|entity
+ave christophe|location
+avenue albert jode|entity
+avenue mavramboise|entity
+bainet|location
+belgian consulate|location
+belladere|location
+besoin de tentes|entity
+boisverna|location
+bouchereau and|entity
+bowen field|location
+bresma|entity
+canape-vert|location
+cap haitian|entity
+caribbean market|location
+carrefour feuille|location
+carrefour mahotiere|entity
+cayes jacmel|location
+cazale|location
+cazeau|location
+champin|location
+choscal hospital|location
+christ roi street|location
+christine evans|entity
+cite soliel|location
+comite miracle|location
+containerized|action
+corail|location
+cote plage 22 #33|location
+creche jacquet|entity
+daphnee sylvestre|entity
+de la paix hospital|location
+delmas 105|location
+delmas 16|location
+delmas 42|location
+delmas 9|location
+delmas 91|location
+delmas9|entity
+deschapelles|location
+diegue|entity
+dinepa office|location
+diquini hospital|location
+direct relief|entity
+distribruting|action
+dufort|location
+ecole ananda marga|location
+edith salomon|entity
+esther celestin|entity
+farine|entity
+fxe|entity
+garage site 1a2.|location
+geffrard|entity
+george sada|entity
+good samaritan school|location
+grand tier|location
+grande savanne|entity
+gros morne|location
+haitian red cross|entity
+heartline ministries|entity
+heartline ministries clinic|location
+hospital justinia|location
+hospital sacre coeur|location
+hugson|entity
+huiles|entity
+humanitarien|action
+hypoglycemiants|entity
+hypotenseurs|entity
+impasse alcin|location
+impasse inginac|entity
+impasse mousseau|entity
+impasse orchidee|location
+impasse pierre louis|location
+iron market|location
+jean rabel|location
+joacquin tena|entity
+kamarad|location
+karibe|location
+karibe hotel|location
+koray|entity
+laplaine|location
+le plaza haiti|location
+linsey sirah|entity
+located on the airport road|location
+louverture|entity
+lycee philippe guerrier|location
+mabouya|entity
+mackenson|entity
+madame eman|entity
+mariane charle|entity
+marie therese|location
+martissant|location
+mauricette|entity
+mdalila1|entity
+metellus|entity
+minustah logistics base|location
+miragoane|location
+mirebalais|location
+muncheez restaurant|location
+municipal nursing home|entity
+myrtil gesner|entity
+nou nan la ri|entity
+paco lazon|entity
+pacot rehabilitation center|location
+pandiassou|location
+paule cameau|entity
+paup|entity
+pernier|location
+pernier fatima|location
+persons news|entity
+pierre louis|entity
+place dessaline|entity
+port au prince haiti|location
+port au prince main port|location
+port-au prince|location
+prolonge jean phillip|entity
+puits blain|entity
+pyron|location
+rene preval|entity
+roodlyne normil|entity
+roselle angrand|entity
+rt 204|location
+rue casseus|location
+rue chareron ecole national|location
+rue franck cardozo - 6119|location
+rue garniere|location
+rue sicot|location
+ruelle mackendi|location
+ruelle savanne bond|entity
+saint martin below bel air near the hotel|location
+soeurs|entity
+somniferes|entity
+st. gerard|entity
+st. michel hospital|location
+st. pierre place|location
+taberre|location
+tania normil|entity
+tapion|location
+tarniani|location
+tented|action
+titanyen|location
+torbeck|location
+toussaint hilaire|entity
+toussaint louverture international airport|location
+undamaged|action
+universite caraibe|location
+us resident|entity
+village dantes|location
+vivy mitchell|location
+waney|location
+yoleine|entity
+zanmi lasante|entity
+blain|entity
+brochette|location
+koman|entity
+mezanmi|entity
+hopital|location
+wfp|entity
+rue|entity
+located|action
+destroyed|action
+port|location
+injured|action
+need|action
+urgent|action
+dessalines|location
+looting|action
+mariani|location
+michaelle|entity
+trucked|action
+voye|entity
+looking|action
+help|action
+impasse|entity
+sustained|action
+haitian|entity
+seaport|location
+locate|action
+gathered|action
+svp|entity
+food|entity
+sodium|entity
+unconfirmed|action
+amputated|action
+crs|entity
+gauze|entity
+distributing|action
+received|action
+find|action
+wounded|action
+needed|action
+know|action
+receiving|action
+functioning|action
+alcin|entity
+appelez|entity
+betadine|entity
+city bank|entity
+dabon|location
+genyen|entity
+killick|location
+marguerite|entity
+medical university|entity
+sherley|entity
+terese|entity
+tirent|action
+vitamines|entity
+besoin|entity
+water|entity
+missing|action
+receive|action
+moya|location
+send|action
+dying|action
+arrived|action
+survived|action
+established|action
+hospital|location
+operating|action
+heard|action
+contacted|action
+bel air|location
+colege|entity
+triage|action
+reported|action
+red cross|entity
+trying|action
+running|action
+live|action
+arriving|action
+marie|entity
+pulled|action
+jean|entity
+set|action
+confirmed|action
+working|action
+pih|entity
+treated|action
+estimated|action
+galet|location
+habite|action
+inspecting|action
+teleco|entity
+toussaint|entity
+deploying|action
+rescue|action
+used|action
+arrive|action
+contact|action
+left|action
+surrounding|action
+produce|action
+aid|action
+reach|action
+equipped|action
+including|action
+following|action
+reached|action
+texting|action
+sent|action
+citizen|entity
+anne marie|entity
+barahona|location
+dieux|entity
+fond vert|location
+fondation|entity
+laine|entity
+orphanages|location
+undp|entity
+asking|action
+said|action
+concentrated|action
+roro|entity
+found|action
+evacuated|action
+distributed|action
+situated|action
+seen|action
+buried|action
+ocha|entity
+identified|action
+call|action
+land|action
+coordinate|action
+taking|action
+depi|entity
+deuxieme|entity
+coming|action
+route|entity
+lived|action
+sleeping|action
+named|action
+alfred|action
+establishing|action
+stuck|action
+waiting|action
+broken|action
+died|action
+treat|action
+rescued|action
+clinic|entity
+blocked|action
+adr|entity
+feuille|entity
+germain|entity
+royal caribbean|entity
+silo|entity
+teren|action
+staying|action
+starving|action
+earthquake|entity
+filles|entity
+gonzague|entity
+children|entity
+landed|action
+living|action
+milling|action
+worried|action
+affected|action
+crowded|action
+warehouse|entity
+provide|action
+expected|action
+assist|action
+screaming|action
+delmar|location
+lait|entity
+oxfam|entity
+tents|entity
+maison|entity
+tamara|entity
+roland|entity
+bellevue|entity
+taba|location
+airport|location
+phone|entity
+begging|action
+bring|action
+mars|entity
+jean claude|entity
+relocated|action
+rubble|location
+american|entity
+called|action
+escaped|action
+appreciated|action
+covered|action
+bleeding|action
+spoken|action
+killed|action
+burried|action
+johns hopkins|entity
+joseph|entity
+setting|action
+listening|action
+give|action
+going|action
+dubois|location
+staffed|action
+-71.852375°|location
+-72.229517°|location
+-72.683333°|location
+-72.784971°|location
+# 3 impasse brisson|location
+#14 rue salomon|location
+#27 leonard st|location
+#40 rue o|location
+#43 ruelle sylvia avenue pouplard|location
+#5 delmas 29|location
+#6 rue a. martial|location
+#8 rue merisier prolonge|location
+1 ave. martin luther king|location
+1 km from the airport|location
+105 delmas|location
+113 route des dalles|location
+12 duval 30    croix des bouquets|location
+122-178 rue macajoux in belair|location
+14 delmas|location
+154 avenue martin luther king|location
+154 rue martin luther|location
+154 rue martin luther king|location
+17 delmas 36|location
+17 rue lafleur duchene|location
+18.394408°|location
+18.581320° -72.230488°|location
+18°23.938’ -72°38.277’|location
+19 avenue charles sumner - port-au-prince|location
+19 rue clercine|location
+19.450000°|location
+19.634100°|location
+19.759054°|location
+20 rue 4|location
+2000 tabarre|location
+21 rue clercine|location
+220 rte de delmas|location
+23 impasse la paix number 1 port-au prince|location
+230 boulangesree st kenscoff|location
+233 rue macajoux|location
+24 delmas 91|location
+26 avenue de marguerites|location
+285 av john brown|location
+31 delmas|location
+32 impass albin|location
+32 rue beau  numero 40|location
+33 bouleward harry truman. near old us embasy|location
+33 delmas|location
+33 rue derrosier impas du crist|location
+34  rue a francois #34|location
+34 avenue charles sumner|location
+34 rue a francois # 34|location
+35 rue lamarre petion-ville|location
+425 jean jacques dessalines|location
+5-7 rue sentann|location
+53 bizoton|location
+58 rue darguin|location
+64 rue nord|location
+66 rue st girard|location
+67 thor ave|location
+69 stenyo|location
+70 rue st. regard carrefourfeuille-centre technique de st gerar|location
+72 delmas|location
+75 delmas|location
+75 rue lambert|location
+76 rue geffrard - port-au-prince|location
+777 route de meyer|location
+8 rue mont-joli turgeau|location
+885 bis|location
+94 avenue lamartiniere|location
+abdael|entity
+acajous|entity
+acides folliques|entity
+acra delmas 32|location
+acra family|entity
+across the institut francais|location
+action contre faim|entity
+adassa|entity
+adjs|entity
+adolfo prato|entity
+adolpho prato|entity
+affaected|action
+agena fabien|entity
+aidsrelief|entity
+ainyen|entity
+airport port-au-prince|location
+ajan cadet ualry|entity
+ajds|entity
+alain fanfan|entity
+alain villard|entity
+alain718|entity
+albert schweitzer operational|entity
+alerte rue monseigneur guilloux|entity
+alguna info|entity
+alibe|entity
+aliette|entity
+alix douzable|entity
+alix roi|entity
+allée des acajous|location
+almacaribe|entity
+alo ma|entity
+alo radio|entity
+american golf club|entity
+americares|entity
+amieemccaffrey|entity
+ampicillin|entity
+amplwaye|entity
+amulca|entity
+andre vertus|entity
+ane-a-pitre|location
+anette compere|entity
+angeline augustin|entity
+angeline augustine|entity
+angelo augustin|entity
+angelo augustine|entity
+angle rue lamarre|entity
+angle rue lamarre and darguin|location
+angle rue panamericaine et rebecca|location
+angle rue villate et magny|location
+angle rues pavee et du quai|location
+anhy|entity
+anna schaff|entity
+anna sidney|entity
+annecesse|entity
+ansagal|entity
+ansagal community|location
+antifongites|entity
+anto der abres st.|location
+antoine izmery|location
+antoine izmery soccer field|location
+arcachaie|location
+archahaie|entity
+archaie|location
+area of moya by the comissariat station|location
+ariette lamarre|entity
+aritus|entity
+armelle|entity
+arnoux|entity
+aroda|entity
+around cite soliel prison|location
+artist choulot cheri|location
+aspazie|entity
+assessment coordination team|entity
+at 12 rue pincom|location
+at a school near delmas 19|location
+augsta trevil|location
+augustin jn rosilien|entity
+aunt moumoun|entity
+auntie robin|entity
+av. christophe rue 4 #16|location
+ave christophe #60|location
+ave. martin luther king|location
+avenue ambroise|location
+avenue christophe|location
+avenue christophe chanel prolong # 78|location
+avenue de la liberte port-au-prince|location
+avenue lamartiniere|entity
+avenue magloire ambroise|entity
+avenue martin luther king|entity
+avenue martine luther king|location
+avenue pourpelard|entity
+avgvst|entity
+babiole|entity
+baptist mission haiti hospital of fermathe 62 route de kenscoff|location
+barbara rhine|entity
+barickad|entity
+bartholy|entity
+basile|location
+basile moreau|entity
+basile moreau school|location
+baudin|entity
+behind airport next to cite soleil|location
+behind the us embassy rte de tabarre|location
+bel-air port-au-prince|location
+belhachimi boucif|entity
+belvil yo|entity
+ben dobson|entity
+benicia haitus|entity
+benjamin sunja|entity
+bergeson|entity
+besoind|action
+between delmas 40b and marcadieu st|location
+between delmas 75 and 71|location
+between musseau and juvenat|location
+betwenn|action
+beyaya|entity
+bichet|entity
+bitton|entity
+bizonton|entity
+bizonton 51 rue oriol dos le cardinal #20|location
+bizoton 53|location
+bizotton|entity
+blonde desarmes|entity
+bois patate|location
+bois verna port au prince|location
+bombardopolis|location
+bon repoos|location
+bon repos moleya 7|location
+bon repos route|entity
+bon-repos|location
+boniface|entity
+bonnie joy kaslan|entity
+borchette carefour|entity
+boucif belhachemi|entity
+bouques|entity
+boutiliers|entity
+brandy pierre|entity
+brebis de saint michel de l'attalaye|location
+bresma at 101 delmas|location
+bresma ii|entity
+bresma iii|entity
+brian lehrer|entity
+brochette carefour|location
+budry|entity
+butte boyer|location
+cadet family|entity
+calle juan enrique dunant no. 51|location
+camelle|entity
+camps in croix deprez|location
+canadeau|entity
+canape|entity
+cantave bayard|entity
+cap haitien haiti|location
+cap haitien--hospital justinien|location
+cap hatien|location
+cape haitien|entity
+caphaitien|entity
+capois|entity
+caraibean university|entity
+care office|location
+care office petionville|location
+carfou|entity
+caribbean supermarket|entity
+caricia louiville|entity
+carimi|entity
+carlie vatelia|entity
+carly baja|entity
+carmelle|entity
+carol fipp|entity
+caroline monsanto|entity
+carrefour feulle|entity
+carrefour haiti|entity
+carrefour mahotiere #28 sw|location
+carrefour-port-au-prince road|location
+carrel delpe|entity
+carrfour vecent|entity
+carribean supermarket 5|location
+carribean university|location
+carrrefour de feuilles|location
+casneve oupette|entity
+cassandre felix|entity
+cat_laine|entity
+catholic relief services|entity
+cayemite pestel|entity
+cayes|entity
+ceftriaxone vial|entity
+centre alcibiade pommayrac|entity
+centre dadadou|entity
+cessna caravan|entity
+champ de marts|location
+champmars|location
+champsmar park|location
+chantal landrin|entity
+charity compound|entity
+charles darvey|entity
+charles william|entity
+charltotin damastor|entity
+chatelain tours|entity
+chauflard|location
+cherident|entity
+cherline fleuricois|entity
+children orphanage|entity
+chlorexidine|entity
+choulot cheri|entity
+christ-roi rue mayard at the base|location
+christelle|entity
+christian center|entity
+christian haitian outreach|entity
+christine legagneur|entity
+christophe ave|location
+christophe avenue|location
+christopher dieu|entity
+christopher frecynet|entity
+church st louis roi de france|entity
+cicr|entity
+circulated|action
+cite soleil hospital|location
+cite soleil with water|location
+cite tinante|location
+citibank 30 route de delmas port-au-prince|location
+citibank building|entity
+citoyne|entity
+clairemina|entity
+claudine resilard|entity
+cleopath|entity
+clercine 21|location
+clercine19|entity
+clerveau|entity
+clinic 36# rue metellus|location
+colege la trinite|location
+collaped|action
+collapsed hq|location
+college antillais|entity
+college mixte bayard guerson|entity
+columbier|entity
+comissariat|entity
+commissariat|location
+communaute haitienne|entity
+conape vert|location
+congregated|action
+contextualize|action
+corbetre usenet|entity
+corridor global prolongee|location
+cote plage|entity
+cote plage 22 #33 carrefour|location
+country representative|entity
+creche nid|entity
+cricieuse tombeau|entity
+crisis response international|entity
+crois-des-bouquets|location
+croix bossale|entity
+croix de bouquet|entity
+croix de pré - rue champ de mars|location
+croix deprez|entity
+croix des bossales|location
+croix des missions|location
+croix-des-bouquets and noailles|location
+croiz-des-bouquets|location
+crs haiti|entity
+dahaitsu|entity
+daniel st lot|entity
+daniel varese|entity
+daphne durame|entity
+darbonne 18 488037 72 588556|location
+darguin|entity
+darilus|entity
+darline bazile|entity
+darline exgsavier|entity
+darline gaston|entity
+darvey|entity
+david belle|entity
+david gazashvili|entity
+david lindwall|entity
+david nesbitt|entity
+david ziemke|entity
+de la paz hospital|entity
+deborah innocent|entity
+decaputated|action
+degaje|entity
+deita erasme|entity
+delege|entity
+delma 2|location
+delma 65|location
+delma a1|entity
+delmas 1|location
+delmas 180|location
+delmas 19 angle rues jeune et calao port-au-prince|location
+delmas 19 haiti la trinite hospital|location
+delmas 2|location
+delmas 20 rue bonnet #1 port-au-prince|location
+delmas 29 #7|location
+delmas 3|location
+delmas 3 #29|location
+delmas 31 deuxieme rue lechaud|location
+delmas 31 rue marien|location
+delmas 33   hotel chandelier|location
+delmas 33 haiti|location
+delmas 33 in silo|location
+delmas 33 z silo|location
+delmas 35|location
+delmas 40|location
+delmas 42 at 12 rue pin|location
+delmas 6|location
+delmas 7 and 9|location
+delmas 75 near the canadian embassy|location
+delmas 75 rue jasmin # 16|location
+delmas 95 petion ville|location
+delmas port-au-prince|location
+delmas route airport|location
+delmas school petits poucieres|location
+delmas-2 neighbourhood|location
+delmas95 rte|entity
+denise pierre louis|entity
+department nord|entity
+depatmam|entity
+desinfectants|entity
+desir st #88|location
+desjardines|location
+desk officer|entity
+dewine school|entity
+dexon|entity
+dfid usar|entity
+diclofenac|entity
+dieula mc nally|entity
+dieumira mitilien|entity
+diphenhydramine|entity
+diquini 63|location
+diquini 63 angle rue tunnel et pompee #8|location
+disponibl|entity
+distrist|entity
+djemson|entity
+djenane|entity
+djenane durosier|entity
+djenanedurosier|entity
+doc zamar|entity
+doctor wawel jean pierre|entity
+dominican red cross|entity
+dorce family|entity
+douyon|entity
+down town  commercial district.|location
+drouillard|entity
+dubrouarant and family|entity
+duckens percy|entity
+ducosquer|entity
+dunelle|entity
+duterne|entity
+dynamiclub|entity
+ebenezer church|entity
+ecole louis joseph|entity
+eddy frantz normil|entity
+eddy franz|entity
+edley thomas|entity
+edley92|entity
+edmond mulet|entity
+edouard jean|entity
+edwine|entity
+eglise de|entity
+eglise evangelical baptiste bethesda|entity
+eglise st|entity
+elirose|entity
+elizabeth jean|entity
+emanithe renaudin|entity
+emile samedy|entity
+emiliene|entity
+emmanuel thelemaque|entity
+emmanuella dasque|entity
+enface salle du rayme|location
+enock similca|entity
+ens. miraflores|location
+entenet|action
+epgfz|entity
+eric gilot|entity
+eskout|entity
+espelitane|entity
+espiegle|entity
+estama|entity
+estevenson|entity
+esther garbath|entity
+esther loresca|entity
+etiene adolple|entity
+etienne sauveur|entity
+etienne tieno sylvestre|entity
+ettienne sauveur|entity
+eugenie doucicauld|entity
+eugenie sinal|entity
+eunide|entity
+eunide douzable|entity
+eustache li|entity
+eveillard family|entity
+exact coords unknown|location
+eximene st val|entity
+fabienne fanfan|entity
+falaise street|entity
+famille fanfan|entity
+fanfan|entity
+fanmi ki|entity
+fanmi lochard|entity
+father jean|entity
+father michael|entity
+faulting|action
+faustin|location
+fb id jo jenny|entity
+feler|entity
+fermat 64|location
+fermate|location
+fermathe baptist haiti mission|location
+fermathe on rue de kenscoff|location
+field hospital|entity
+findia|entity
+fito ogulese|entity
+fleura|entity
+floreal|entity
+floret|entity
+florette fiak|entity
+fondation le mabouya|location
+fonds verettes 18 394408 71 852375|location
+fonds verrettes|entity
+fonkoze|entity
+fontamara # 43 rue anacreon haiti|location
+fontamara 43 rue menos|location
+fontamara 43 village royale #10 port au prince|location
+fontamura|entity
+food water|entity
+foodmax|entity
+foodmax supermarket|entity
+fort-mercredi|location
+foyer des filles de dieu|location
+francique|entity
+franck jean|entity
+francouer joseph|entity
+frantz cadet|entity
+frantz charlot|entity
+frantz francois|entity
+frantzy|entity
+frenaud|entity
+french hospital|entity
+freres et|entity
+fritz lucien|entity
+fritz vixamar|entity
+fritznel|entity
+fsil nursing|entity
+fsil school|entity
+ft. liberte|location
+furosemide|entity
+gabriel family|entity
+galerie monnin|entity
+galets|location
+garnel|entity
+gedeon|entity
+gedner darilus|entity
+geffard road|entity
+gelofusine|entity
+general assembly church|entity
+general hospital - port-au-prince|location
+general police department|location
+gentamycin|entity
+georges job schneider|entity
+gerald bataeil impasse|entity
+gerald bataeil impasse des mangues #27|location
+gerald chery|entity
+gerald compere|entity
+gerard technical school|entity
+german rescue|entity
+gesnel simon|entity
+gessica832002|entity
+gheskio|entity
+ghislaine|entity
+gilbert viala|entity
+gilbert viala we|entity
+ginette beavzais|entity
+ginette gaston|entity
+giscard lefevra|entity
+givland|entity
+gladys bellevue|entity
+gladys durmerlin|entity
+glafira|entity
+glamanine|entity
+globalmedic|entity
+goc universite|location
+goc university|entity
+gonaïves|location
+gonayiv|entity
+google earth map|entity
+grand anse|location
+grand goave children|entity
+grand goave children's home okay|location
+grand kolin|entity
+greggo33|entity
+gregory chery|entity
+gressie haiti|entity
+gressier anto|location
+gressier haiti|location
+gresye|entity
+groupes electrogenes|entity
+guelson|entity
+guerda synal|entity
+guerline douzable|entity
+guesno mardy|entity
+gueson|entity
+gwenn mangine|entity
+gwoup|entity
+haiti childrens home|location
+haiti flight operations coordination center|entity
+haiti operations coordination centre|entity
+haiti two south kitsap|entity
+haitian adventist hospital|entity
+haitian ministry|entity
+haitian outreach|entity
+haitigoodnews bianca gabriel|entity
+haitiquake|entity
+halothane|entity
+helnade compere|entity
+heloise boyer|entity
+henry fanfan|entity
+hermine|entity
+hermithe bernard|entity
+hernst marcelin|entity
+highpertension|entity
+hilda alcindor|entity
+hispaniola|entity
+hiton|entity
+hjean|entity
+home for elderly|location
+honorat|entity
+hope clinic|entity
+hopital adventiste|entity
+hopital de paix|location
+hopital espoir|entity
+hopital general|location
+hôpital sacré coeur milot|location
+hopital sacre coeur please|entity
+hosp sacrecoeur|entity
+hospital at 2 st. gerard fell on school dessalines|location
+hospital baptist haiti mission|entity
+hospital du canape vert|location
+hospital justina|entity
+hospital justinian|location
+hospital justinien|entity
+hospital st. croix -72.559032 18.557415|location
+hospital universitario de haiti|location
+hotel caraibe|location
+hotel carribe|entity
+hotel christopher|entity
+hotel cyvadier|entity
+hotel karibe|entity
+hotel montana haiti|location
+hotel oloffson|entity
+hotel villa creole|entity
+hotel villa therese|entity
+house #14 port au prince haiti|location
+house 23 or 33|location
+hubert sidney|entity
+hude ogulese|entity
+humanitarian affairs|entity
+humanitarian affairs officer|entity
+hyppolite craan|entity
+icao|entity
+icc hospital|entity
+iderle fenestor|entity
+idf medical|entity
+ile-a-vache|location
+imp. arnoux #14|location
+impasse alouette|entity
+impasse brochette lumiere|entity
+impasse celeste number 40|location
+impasse chache laguerre|location
+impasse charite #2|location
+impasse chretien|entity
+impasse chretien klecin 12 extended|location
+impasse dumonde|location
+impasse inginac #7|location
+impasse laguerre|location
+impasse legros|entity
+impasse marcel augustin|entity
+impasse namphy|entity
+impasse ridore|location
+impasse rigal|entity
+impasse roussan prolonge|entity
+in a field near airport|location
+in front of haiti block airport road|location
+in la boule|location
+information confirmee|entity
+innocent renar|entity
+institut francais|entity
+institut franse|location
+international action|entity
+international committee|entity
+international federation|entity
+international guest house|entity
+international rescue team|entity
+irma gilot|entity
+irmina33|entity
+isarya|entity
+isofurane|entity
+israel defense forces|entity
+jacamel|location
+jackson joanis|entity
+jacmal|entity
+jacmel - all over city|location
+jacmel - pap road|location
+jacmel haiti|location
+jacmel port|location
+jacmel road|location
+jacmel shelters|location
+jacqueline barthelemy|entity
+jacquet imp alfred vieux|location
+jamcel|location
+jamcel airport haiti|location
+james rhoads|entity
+jasmine darilus|entity
+jasmine yacinthe|entity
+jean baptist paul|entity
+jean baptiste fritz|entity
+jean jacques dessalines|entity
+jean kesnel|entity
+jean marianie|entity
+jean pierra|entity
+jean robert|entity
+jeanite|entity
+jennifer johnson|entity
+jephte|entity
+jera krist|entity
+jessica charlot|entity
+jessica jean|entity
+jessica joseph|entity
+jessica leriche|entity
+jgordon11203|entity
+jimani city hospital free|entity
+jimani hospital|location
+jmlucien|entity
+joane and|entity
+joel lochard|entity
+joelle benoit|entity
+john rubens|entity
+johnny joseph|entity
+johny gaston|entity
+jolivert|location
+jones ave|entity
+jorge garcia castillo|entity
+josef benito|entity
+joseph gabriel|entity
+joseph herault|entity
+joseph jacson|entity
+joseph zicot|entity
+josette benoit|entity
+jovani|entity
+jude nicolas guillaume|entity
+juh hospital|location
+just up from the american embassy|location
+justinian hospital|entity
+juvenat|entity
+juvenat 7 petion-ville|location
+jwawel10|entity
+kappma|entity
+karel zelenka|entity
+kathleen belot|entity
+kayoute|entity
+keda innocent|entity
+keith angus|entity
+kelly baptiste|entity
+kerlie|entity
+kethi sanon|entity
+kethie|entity
+kethie sanon|entity
+ketlie camille|entity
+ketlie laurole|entity
+kettel badio|entity
+kettly pamphile|entity
+keziah furth|entity
+kimberly michelle jean|entity
+kiskeya|entity
+klorox|entity
+komis legerme jean gracia|entity
+konbit sante|entity
+konen|action
+krsyanvil|entity
+krsyanvil mission|location
+kwa bossal|entity
+l'opital|location
+la boule|entity
+la gonave|entity
+la lee rino alexi #10|location
+la pleine|entity
+la trinite|location
+labadee/labodi|location
+labbe|entity
+ladydior47|entity
+lagem|entity
+laguelle|entity
+lamare|entity
+lamarre|entity
+lambert petitionville pap|entity
+lambifund|entity
+lanlord name|entity
+lapleine|entity
+lascahobas|location
+latimesphotos|entity
+laura flynn|entity
+laurencine bijoux|entity
+le nouvelliste|entity
+le pleine|location
+legerme jean gracia|entity
+leglise|entity
+legliz perp|entity
+lemoine|entity
+leoagane|entity
+léogane|location
+leogane missing zidor|location
+leogane plane|entity
+leogane stadium|location
+léogâne: darbonne sugar mill|location
+leon cherisme|entity
+leonard st|location
+leone oriol|entity
+les salines|entity
+lesely|entity
+letendre family|entity
+leya shemaly|entity
+liancourt|location
+lifelinecm|entity
+lilavois|entity
+lilavois 33 bon repos|location
+lilavois 48 50|location
+lilavois 48-50|location
+lillavois|location
+lionel st|entity
+littlest angels|entity
+liviy laurole|entity
+llegu|entity
+located near place de la paix|location
+lochard etienne|entity
+lokalize|action
+loomt|entity
+lorante|entity
+loubens|entity
+louis diaquoi|entity
+louverture street|entity
+lovinski|entity
+lubin|action
+lubin joseph|entity
+lucienne pierre|entity
+lyankou|entity
+lycee anacaona|location
+lycee francais|location
+lycée français in bourdon.|location
+lycee francaise|entity
+lycee toussain luverture|location
+lycee toussaint louverture|location
+lydc29|entity
+machan desalin|entity
+mackenzi tertulien|entity
+macorel lisius|entity
+madame saurel lisius|entity
+madeleine manece|entity
+magalie delpe|entity
+magalie jaccy|entity
+magaline|entity
+magloire ambroise|location
+magloire oriol|entity
+mahotière 79 relle panorama # 77|location
+maison des anges|entity
+maison des enfants|location
+malere|action
+malherbe colas|entity
+manese|entity
+marcaine|entity
+marceline espiegle|entity
+marceline jean|entity
+marchand desalin|entity
+margareth degand|entity
+margareth degand hospital|entity
+margarette|entity
+marguerite vixamar|entity
+marguerites|entity
+maria antonieta castillo santa maria|entity
+mariani port au prince|location
+marie chantal borno|entity
+marie desir|entity
+marie edmonde deville|entity
+marie fabre|entity
+marie jacqueline pean|entity
+marie josee rebecca|entity
+marie lourde lavilus|entity
+marie lourdes|entity
+marie metellus|entity
+marie yolene gilles|entity
+marilou roy|entity
+marilourde lav|entity
+marilourde lavilous|entity
+marilu_acosta|entity
+marine haitienne|entity
+mario joseph|entity
+mario vixamar|entity
+marismide|entity
+marjorie joseph|entity
+marleine comprere|entity
+marotie're 28|location
+marouj|entity
+marsha valentina|entity
+martine pierre|entity
+martissant 19|location
+martissant 23|location
+martissant port-au-prince|location
+martissint 19 impasse lasagesse #9|location
+maryline daoud shemaly|entity
+mathieu habitation|location
+matthew gilot|entity
+maurissette|entity
+max paul|entity
+mcalpin|entity
+mcarthur leger|entity
+mcfdf|entity
+mecnoir66|entity
+medecins se|entity
+melissa elliott|entity
+mellier and grand savanne - léogâne|location
+mellier grande savanne leogane|location
+mennaj|entity
+merantier|entity
+merger 3ieme carrefour|location
+merisier prolonge|entity
+merline|entity
+mervil|entity
+metel|action
+meyan|action
+mgr guilloux|entity
+micaelle marcellus|entity
+micalelle marcellus|entity
+michael joseph|entity
+michael metellus|entity
+michel baptiste|entity
+michel henri robert|entity
+michel matera|entity
+michel presil|entity
+micheline derose|entity
+micheline germain|entity
+micheline lisius|entity
+michelor lisius|entity
+michigan department|entity
+middler|entity
+mideline|entity
+mikaille|entity
+mike nesbitt|entity
+milot payen|entity
+miltipliye ak|entity
+milton area|location
+mind hotel|entity
+minouche|entity
+miques|entity
+mirlande jean maison|entity
+mirlande lisus|entity
+mirlene lisius bayard|entity
+mirmonde casimir|entity
+mirna nazaire|entity
+miss jeanne|entity
+mission evangelique chretienne|entity
+missionary house|entity
+mitchel and|entity
+mitilien|entity
+mlamisere|entity
+mm98273|entity
+modeline jules|entity
+mom daphney sylvestre|entity
+mom sw|entity
+mon repos|entity
+mona delpe jean|entity
+mona pierre|entity
+monique turtulien|entity
+monnin|entity
+monroe post|entity
+mont joli-turgeau|location
+mont saint nicolas|location
+montagne noir|entity
+montina|entity
+morne a tuff|location
+morne basile|location
+mother house|entity
+moussignac|entity
+mr. annabi|entity
+mr. patrice milfort|entity
+mtpp|entity
+multipharma drugstore|entity
+muncheez|entity
+mycology|entity
+myrtho douzable|entity
+n_proteau|entity
+nadcc|entity
+nadege|entity
+nadia cadet|entity
+nadine philips|entity
+naguad0|entity
+naika|entity
+nalexia|entity
+nalise polyete|entity
+nan bino la pointe|entity
+nan se|entity
+nancie|entity
+naphta|entity
+napley|entity
+napley inn hotel|entity
+national public health lab|location
+nazon #27|location
+nazon pap|location
+near airport haiti|location
+near carefou|location
+near church of god boula|location
+near croix des bouquets|location
+near les cayes|location
+nenpop|entity
+nenpot|entity
+new hope ministries|entity
+new missions|entity
+new missions and area schools|location
+next to canadian embassy|location
+nh usa|entity
+nickerson|entity
+nicolas peterson|entity
+nicole adolple|entity
+nicole labonte|entity
+nifedipine sublingual|entity
+nisan patrol|entity
+noailles|entity
+normil|entity
+north west haiti|location
+not too far from delmas 19|location
+nou grangou|entity
+nou nan la|entity
+nouriture|action
+number 12 k|location
+nursery nid|entity
+nursing student|entity
+octavius delfils|entity
+odette bazile|entity
+odile antoine|entity
+officer fanol|entity
+onrepo|entity
+opposite jimani city hospital|location
+orphanage brebis|entity
+orphanage bresmas|entity
+orphanage group|entity
+orphange la maison des anges|entity
+our relative|entity
+oute de freres|location
+oxfam hq|entity
+p_o_p|entity
+p-a-p rue amiral #8 carrefour feuille|location
+pacot 4 numero 3|location
+palais de ministères - rue monseigneur guilloux|location
+paloma and citoyne ave|location
+pamela jonassaint|entity
+paola iten|entity
+pap bizoton 6 #12|location
+pap harbor|location
+pap hospitals|location
+pap morgue|entity
+pap municipal nursing home|entity
+pap university|entity
+park gerard christophe|entity
+park saint therese|entity
+parque st. therese port-au-prince|location
+pascal frank|entity
+pastor rene dorilien|entity
+pastor salnave|entity
+patients to us|entity
+patrice talleyrand phone|entity
+patrick charles|entity
+patrick jean|entity
+patrick laguerre|entity
+patrick mouscardy looking|entity
+patrick nirtilus|entity
+patrick witty|entity
+pelerin|entity
+pelerin 5 · port-aux-prince|location
+pèlerin 5 pétionville|location
+pepperfire rt|entity
+permanganate|entity
+perpetuel secours church|entity
+peter lister|entity
+petiion ville|entity
+petion|location
+petionville 6110|location
+petioville|location
+petiteville|location
+pétonville|location
+phigenie|entity
+philippe jean|entity
+pierre l.|entity
+pierre paul|entity
+pierre richard eustache|entity
+piwo|entity
+pizza varden|entity
+place boyer‎|location
+place fuel|location
+place st pierre|location
+place st. pierre|location
+plaza 41|location
+policier|entity
+pont morin teleco|entity
+port au prince airport|location
+port au prince port area|location
+port au-prince|location
+port captain|entity
+port fuel tank farm|location
+port of port au prince|location
+port of port-au-prince|location
+port-à-piment|location
+port-au-prince  dgi building near palace|location
+port-au-prince airport|location
+port-au-prince harbor|location
+port-au-prince municipal nursing home|location
+port-au-prince route delmas|location
+port-de-paix|location
+port-margot|location
+portail leogane|entity
+portauprince|entity
+post commander|entity
+poupette lisius|entity
+produits de toilette|entity
+promess|entity
+puit blain|entity
+rachel dandache|entity
+rachelle loresca|entity
+rachellesanon|entity
+rachoul_27|entity
+radio dabon|entity
+radio grand goave|entity
+radio tele ginen|entity
+ranboto|entity
+rantre|entity
+rasta_cook|entity
+raymonde leonard|entity
+red crescent society|entity
+redeploying|action
+reformed presbyterian church|entity
+regine jonassaint|entity
+relativesinhaiti oreste germain|entity
+renise|entity
+renmen|action
+resevwa|action
+response division|entity
+richard perot|entity
+richard proteau|entity
+richard sajous|entity
+riche jean jerry frantz|entity
+rielle savanne bond|entity
+riky serge|entity
+rita aristide|entity
+river frorse outside of carrefour|location
+riviere froide|entity
+riviere-froide|location
+rivierre froide|entity
+road from dr|location
+road from pap to jacmel|location
+road into léogâne|location
+road to jacmel|location
+robenson sam|entity
+robert guitry gilot|entity
+robert penette|entity
+robin vois verna|entity
+rochelle metellus|entity
+rolson|entity
+ronia lisius|entity
+rony camille|entity
+ronycamille ariel germain|entity
+rosa crespo|entity
+rose kerline|entity
+roseline darilus|entity
+roumaline|entity
+roumaline shemaly|entity
+route 305|location
+route de carrefour|location
+route de kenscoff|location
+route de meyer|location
+route de tabarre|location
+route delmas|entity
+route des freres|location
+route les cayes-port-au-prince|location
+route lilavois|location
+route lilavois 33|location
+route national #2|location
+route national 1|location
+route nationale|entity
+routes freres|entity
+rt evelyn bourdeau|entity
+rte de freres|location
+rte de jacquet|entity
+rte. de jacquet 3|location
+rte. ste. terese|location
+rtestetherese|entity
+rue 17 q|location
+rue 4 # 16|location
+rue acacia|location
+rue alerte by cross street rue monseigner guilloux|location
+rue alexandre|location
+rue armand|location
+rue armand holly|entity
+rue capois|entity
+rue capois 10|location
+rue casseus no. 9|location
+rue celcis 12 bis|location
+rue champ|entity
+rue chareron ecole nationale|entity
+rue chavannes|location
+rue christ-roi|location
+rue darguin|entity
+rue de belvil|location
+rue de kenscoff|location
+rue des arbes|location
+rue dr dehoux|location
+rue du cosquer|location
+rue espagnol|location
+rue faubert no|entity
+rue fort mercredi|location
+rue franck cardozo|entity
+rue franck cardozo - 6119 port-au-prince haiti|location
+rue franck cardozo pétionville|location
+rue francois no 6b|location
+rue geffrard|location
+rue gelin 6|location
+rue grande|location
+rue gregoire|entity
+rue hyppolite|entity
+rue jasmin # 16|location
+rue jose mart|entity
+rue kernisant|entity
+rue kernisant 24|location
+rue lamare|entity
+rue lamartiniere|location
+rue lambert prolonge route juvenate|location
+rue lohier|location
+rue loubens|location
+rue mackendal|entity
+rue mackendal #8 port-au-prince|location
+rue malval|location
+rue marcadieux|location
+rue martin luther|location
+rue menos|location
+rue monseigneur guilloux|entity
+rue monseigneur guilloux #556|location
+rue oswald durand|location
+rue pavee|location
+rue pomeyrac|entity
+rue robin|location
+rue saint honore|entity
+rue st martin #10 bis|location
+rue st-philippe|location
+rue sylvie cator|location
+rue terre rouge|location
+rue villemenay #18|location
+ruelle antoine #17|location
+ruelle chretien|entity
+ruelle chretien #48|location
+ruelle guerrier|entity
+ruelle jeudy|entity
+ruelle jeudy #75|location
+ruelle laguerre|entity
+ruelle melisse souchet|location
+ruelle morency|entity
+ruelle sapotille carrefour|location
+ruelle souchet|location
+ruelle st pierre|location
+ruelle toussaint petionville puits blain route frere|location
+ruth etienne|entity
+sabine polinice|entity
+sacre coeur|entity
+sacre coeur hospital|entity
+sacre coeur hospital in milot north haiti near cap haitian|location
+sacred heart church|location
+sadrac|entity
+sagaille|entity
+said jaar|entity
+saint bernadette|entity
+saint francois|entity
+saint marc|entity
+saint mark|location
+saint mark/sen mak|location
+saint michel|entity
+saint remy|entity
+saint-antoine|location
+sainte bernadette paup|location
+sainte marie canape vert|location
+sainte-bernadette|location
+samerole|entity
+sammy ray dobson|entity
+samuel attis|entity
+sanon|entity
+saponais|entity
+sapotille|entity
+sarah lauture|entity
+sarah room|entity
+saurel lisius|entity
+scheffer gilot|entity
+scheunan laguerre|entity
+schneider charlot|entity
+school of trinite|location
+sebastian delpe|entity
+selena rhine|entity
+senfle|entity
+senfle yoldine|entity
+serviettes hygieniques|entity
+shantale chery|entity
+shantale00|entity
+shantiiladiosa|entity
+shedelyne|entity
+shedelyne toussaint|entity
+sherley mounely william|entity
+sherline birotte|entity
+sherrie fausey|entity
+shiler dorsainvil|entity
+signal fm|entity
+silo z|location
+siloye|entity
+simon st fort|entity
+simone poule|entity
+sion orphanage|entity
+site medical|location
+situation overview|entity
+smathieu203|entity
+sobnert beauvais|entity
+soeur etienne|entity
+soeurs de|entity
+soeurs of riviere froide|location
+solutions vaginales|entity
+sonadim building angle blvd|entity
+sony esteus|entity
+sonya gilot|entity
+sophia biamby|entity
+sorina|entity
+souheil hage|entity
+southern command|entity
+specialty clinic|entity
+spydrmedia medical supplies|entity
+st bernadette|location
+st francois|location
+st gerard technical school|entity
+st louis jeanty # 11|location
+st pierre sq|location
+st. bernadette|location
+st. damien|entity
+st. damien children|entity
+st. francois|entity
+st. gerard church|entity
+st. gerard university|location
+st. joseph home for boys|entity
+st. marchand|entity
+st. matthieu|location
+st. nicholas|entity
+st. nicholas hospital|location
+st. pierre's square|location
+stanford school|entity
+stanley clermont|entity
+stanley fabre|entity
+statying|action
+stephanie gille|entity
+stephanie gilles|entity
+sterlyn leonard|entity
+steve kastenbaum|entity
+stewart gaston|entity
+street casseus|entity
+street leonard|location
+sylvie cator street|entity
+sylvie mathieu|entity
+tabare|entity
+tabarre 48|location
+tabarre 48 n°8|location
+tabarre 9|location
+tabarre 9 papo impass ciceront 46|location
+tabarre at rue gelin 6|location
+taberre at rue glein #6|location
+taifer|entity
+take delmas|entity
+tandan yo|entity
+tbaptiste|entity
+tecsult|entity
+teleco area|entity
+teleco building|location
+teleco in pont morin|location
+telephonne|entity
+temporary field hospital|entity
+temporary hospital|entity
+tequila minsky|entity
+tersciane|entity
+tetchena bellanges|entity
+tete de l'eau|location
+texaco station|entity
+teyna|entity
+the pap university|location
+thomassin|entity
+thomassin number 32|location
+thony bellevue|entity
+thor 65|location
+ti marché|location
+tibo 19 634100 72 229517|location
+tifane|entity
+tim traynor|entity
+tipapi|entity
+tisoeur|entity
+toce plague|entity
+toce plague rue 22|location
+toilettes mobiles|entity
+tortuga island|location
+total champin|location
+toussaint louveture|entity
+tradewind aviation|entity
+trauma unit|entity
+trevil|entity
+trevor baptiste|entity
+trinite|entity
+trutier landfill|location
+ttraynor1948|entity
+turbé|location
+turgeau rue armand|entity
+ulcc|entity
+ulyse carlo|entity
+un headquarters|location
+un minustah|location
+unasmoh ave christophe rue 4|location
+undp office|entity
+unhas cessna caravan|entity
+unibank site|entity
+unibanque|entity
+united nations office|entity
+united nations representatitve|entity
+united nations stabilization mission|entity
+unitransfer|entity
+unitransfer rue lamare|location
+univeristy of agronomy|location
+universal motors|entity
+universite|entity
+university hospital justinian|entity
+university of kiskeya delmas 35|location
+university st gerard|location
+urban search|entity
+urvica normil|entity
+usaid food|entity
+usaid status|entity
+usns big horn|entity
+usns grasp|entity
+usns henson|entity
+uss bunker hill|entity
+uss carl vinson arrives|entity
+valerie gilot|entity
+valou gehy faites|entity
+varreux|location
+veda lochare|entity
+venette|entity
+verena hackenbruck|entity
+vetements|entity
+vicryl|entity
+villa st. louis hotel|location
+village theodate|entity
+village uldeca|entity
+violene gabriel|entity
+vitanin|action
+vizite|action
+vole ap|entity
+walt ratterman|entity
+walter riley|entity
+waney 93/carrefour|location
+waney-bijou|location
+waney/carrefour|location
+warehouse  with large yard of 1|location
+watapana|entity
+wayne 89 rue cayemite #22 carrefour moussignac|location
+weedner normeus|entity
+wenski|entity
+wensley|entity
+west pap|entity
+widyannah|entity
+wiir4dog|entity
+wilben|entity
+wilfride saint louis|entity
+wilnor alexis|entity
+wilsciane|entity
+wilson belliot jaquet|entity
+winson joseph|entity
+wislie jacinthe|entity
+wisminkid|entity
+woody shemaly|entity
+woolio|entity
+wync|entity
+yamiley jean louis|entity
+yevette alliance|entity
+yoldine|entity
+yolene bijoux|entity
+yuruinspires|entity
+yves guerrier|entity
+yvonne kermizan|entity
+yvonne sa ntil grandparents|entity
+yvos|entity
+zabulon|entity
+zanmi lasante sociomedical complex|entity
+zouzoun|entity
+canned|entity
+madam|entity
+tell|action
+gone|action
+getting|action
+claude|entity
+man mal|entity
+ongoing|action
+regarding|action
+report|action
+seeking|action
+accounted|action
+suffering|action
+alive|action
+lost|action
+survive|action
+sleep|action
+supplied|action
+respond|action
+searching|action
+saying|action
+medicine|entity
+robbed|action
+house|entity
+take|action
+carried|action
+note|action
+serve|action
+crushed|action
+rete|action
+calling|action
+hotel|location
+adolfo|entity
+jeanne|entity
+st. louis|entity
+cote|entity
+unloaded|action
+diesel|entity
+stephanie|entity
+chlorine|entity
+citibank|entity
+demolished|action
+melissa|entity
+satellite|entity
+concern|action
+sardines|entity
+displaced|action
+border|location
+morin|location
+began|action
+name|action
+alerte|entity
+united nations|entity
+increased|action
+forward|action
+planes|entity
+according|action
+save|action
+known|action
+specify|action
+carrying|action
+crying|action
+sending|action
+brought|action
+serving|action
+operated|action
+avenue|action
+came|action
+treating|action
+clive|entity
+distribute|action
+judith|entity
+deliver|action
+french|entity
+reporting|action
+invaded|action
+run|action
+francais|entity
+family|entity
+planning|action
+concerned|action
+extended|action
+told|action
+blood|action
+sucre|entity
+believe|action
+school|location
+elle|entity
+patrick|entity
+cite|entity
+jerry|entity
+saw|action
+fractured|action
+making|action
+went|action
+masked|action
+say|action
+ngo|entity
+town|entity
+supposed|action
+antoine|entity
+incoming|action
+seek|action
+fritz|entity
+road|entity
+remove|action
+fort|entity
+wearing|action
+die|action
+visit|action
+flour|entity
+finished|action
+medical center|entity
+occupied|action
+desperate|action
+leading|action
+post|action
+advised|action
+update|action
+move|action
+starting|action
+standing|action
+vite|action
+carlo|entity
+map|entity
+dead|action
+lack|action
+check|action
+suffered|action
+aide|action
+flying|action
+created|action
+stating|action
+tylenol|entity
+noted|action
+university|location
+rose|entity
+alo se|entity
+anesthetic|entity
+border crossing|location
+boujou|entity
+bowie md|entity
+canadian embassy|location
+chlorox|entity
+cnn radio|entity
+congregating|action
+dgi|entity
+diazepam|entity
+digicel|entity
+disembark|action
+distroy|action
+dynamited|action
+ebing|action
+edh|entity
+ephedrine|entity
+evacuating|action
+fabien|entity
+geralda|entity
+gerold|entity
+hairi|location
+haitin|entity
+herault|entity
+herold|action
+himmler|entity
+hotel villa|entity
+impass|entity
+jocelyne|entity
+jostling|action
+komite|entity
+kuttab|entity
+leonie|entity
+lidocaine|entity
+lochard|entity
+lortab|entity
+mangues|entity
+narcisse|entity
+new satellite|entity
+orick|entity
+overpacked|action
+partitioned|action
+rerouted|action
+richter scale|entity
+roudy|entity
+rue de la|entity
+st. maarten|entity
+sterline|entity
+tea light|entity
+telex|entity
+tise|entity
+uhj|entity
+ulysse|entity
+un assistant|entity
+veronique|entity
+wfplogistics|entity
+wilfred|entity
+beginning|action
+text message|entity
+helping|action
+container|entity
+car|entity
+continue|action
+departure|action
+losing|action
+hear|action
+cell|entity
+vivi|entity
+ask|action
+recherche|action
+delivering|action
+sil|entity
+disappeared|action
+appreciate|action
+drinking|action
+controlled|action
+james|entity
+quake|entity
+fell|action
+thank|action
+leaving|action
+made|action
+gerard|entity
+mother|entity
+keep|action
+parliament|entity
+believed|action
+freezer|entity
+unhas|entity
+front|entity
+providing|action
+arrange|action
+wheat|entity
+street|entity
+become|action
+loved|action
+tried|action
+samuel|entity
+provided|action
+cut|action
+ministry|entity
+walk|action
+jak|entity
+store|action
+dressing|action
+danielle|entity
+nursing|action
+plan|entity
+visited|action
+turn|action
+cleared|action
+digging|action
+loaded|action
+barbara|entity
+recommended|action
+team|entity
+owned|action
+place|entity
+fuel|entity
+using|action
+open|action
+leave|action
+villa|entity
+offered|action
+peas|entity
+adoken|entity
+alcohol swabs|entity
+alguna de|entity
+auberge|entity
+cdti|entity
+conus|entity
+daoud|entity
+decomposing|action
+differed|action
+edeline|entity
+habitant|entity
+joindre|action
+labeler|entity
+laure|entity
+lept|action
+luco|entity
+maranatha|entity
+marthe|entity
+missdinnyc|entity
+mitchelle|entity
+mobilized|action
+naciones unidas|entity
+new mission|entity
+nfi|entity
+presbyterian church|entity
+sainte-marie|location
+speculated|action
+trinidadian|entity
+urinated|action
+vitamine|entity
+warehouses|location
+drove|entity
+eat|action
+stay|action
+foundation|entity
+scheduled|action
+split|action
+required|action
+love|action
+fallen|action
+hit|action
+registered|action
+emergency|entity
+nothing|action
+santos|entity
+garage|entity
+spoke|action
+preparing|action
+gina|entity
+tonight|action
+louis|entity
+richard|entity
+god|entity
+protect|action
+start|action
+include|action
+chef|entity
+counting|action
+burning|action
+opened|action
+built|action
+show|action
+airlifted|action
+anko|action
+ap tu|entity
+buckled|action
+cherchez|entity
+colapsed|action
+font des|entity
+georgy|entity
+h2o2|entity
+irin|entity
+jean pierre|entity
+koridor|entity
+leya|entity
+lingeries|entity
+looted|action
+orlean|entity
+replenished|action
+saint etienne|entity
+tended|action
+ushahidi|entity
+visted|action
+water and food|entity
+filled|action
+bringing|action
+look|action
+jimmy|entity
+wanting|action
+shooting|action
+rice|entity
+truck|action
+sugar|entity
+growing|action
+consider|action
+alert|entity
+staff|entity
+oil|entity
+handle|action
+noticed|action
+work|action
+burn|action
+spread|action
+begin|action
+hearing|action
+field|action
+passed|action
+selling|action
+schedule|entity
+milk|entity
+christian|entity
+feed|action
+none|entity
+keeping|action
+airport road|entity
+allee|entity
+auctioning|action
+baptiste|entity
+bti|entity
+caire|entity
+delphin|entity
+dopamine|entity
+durand|location
+katha|entity
+kenia|entity
+logistic|entity
+militaire|entity
+mobilizing|action
+modernes|entity
+nashua|entity
+new hospital|entity
+paka|action
+relaying|action
+retreated|action
+trickling|action
+u.s. citizen|entity
+unaccompanied|action
+virginie|entity
+vivien|entity
+weakening|action
+pois|entity
+limited|action
+given|action
+worked|action
+buying|action
+putting|action
+caught|action
+havent|action
+wrote|action
+telling|action
+heading|action
+felt|action
+return|action
+moving|action
+kick|action
+figure|action
+entre|action
+kelly|entity
+amalia|entity
+american citizen|entity
+arnie|entity
+blanchard|entity
+brothers name|entity
+consulate|entity
+envoyez|entity
+gertrude|entity
+global health|entity
+gustave|entity
+head injuries|entity
+lumiere|entity
+natacha|entity
+percocet|entity
+populated|action
+principled|action
+professeur|entity
+public information|entity
+rdi|entity
+recive|action
+relayed|action
+roamed|action
+sabine|entity
+salvaged|action
+tramadol|entity
+wete|action
+looked|action
+closed|action
+added|action
+ap|entity
+pour|action
+message|entity
+sister|entity
+happened|action
+stand|action
+hurt|action
+seeing|action
+south|entity
+fire|entity
+drink|action
+a warehouse|location
+ecoute|entity
+fabiola|entity
+fito|entity
+gianni|entity
+missing persons|entity
+rescue team|entity
+transporting|action
+gave|action
+giving|action
+drive|action
+mobile|entity
+alerted|action
+bel-air|location
+citigroup|entity
+comite|action
+consul|entity
+drilled|action
+facilitating|action
+kisa|entity
+neighboring|action
+ngos|entity
+st. pierre|entity
+toppled|action
+posted|action
+list|action
+meet|action
+started|action
+gated|action
+humiliated|action
+improvised|action
+jails|entity
+kathie|entity
+mobilize|action
+osm|entity
+repellent|action
+usaid|entity
+break|action
+person|entity
+son|entity
+talking|action
+affraid|action
+beatrice|entity
+concernant|action
+coordinating|action
+crumbled|action
+danys|entity
+disinfectant|action
+genevieve|entity
+lubricant|entity
+precede|action
+reinforced|action
+sacred heart|entity
+st. catherine|entity
+unchecked|action
+debussy|entity
+disoriented|action
+dob|entity
+etienne|entity
+inserted|action
+luismthen|entity
+medical school|entity
+pleaded|action
+retrieved|action
+saben de|entity
+traverse|action
+baby|entity
+took|action
+basing|action
+effected|action
+inundated|action
+morgue|entity
+residing|action
+saks|entity
+bed|action
+conflicting|action
+housed|action
+kareem|entity
+levine|entity
+rescuing|action
+sebastien|entity
+antoinette|entity
+belleville|entity
+carole|entity
+cnn international|entity
+ddp|entity
+indicating|action
+liaison|entity
+mardy|entity
+plase|action
+separating|action
+christophe|entity
+harmed|action
+loooking|action
+maxime|entity
+midwife|entity
+al jazeera|entity
+catholic church|entity
+collapsing|action
+diligence|action
+dispose|action
+saint louis|entity
+anderson cooper|entity
+banque|entity
+occured|action
+pleading|action
+readying|action
+regine|entity
+restock|action
+traumatized|action
+compromised|action
+general hospital|location
+ludwig|entity
+progressing|action
+telegram|entity
+alain|entity
+central bank|entity
+facile|entity
+landslides|location
+panicked|action
+rubens|entity
+clogging|action
+disciplined|action
+evacuate|action
+spokesperson|entity
+acacia|entity
+celeste|entity
+clement|entity
+coast guard|entity
+francois|entity
+gaston|entity
+jacqueline|entity
+mariane|entity
+elastic|entity
+mclean|entity
+obtener|entity
+congested|action
+eske|entity
+jacky|entity
+marlene|entity
+rend|action
+rudolph|entity
+creole|entity
+departing|action
+nicholson|entity
+orchid|action
+colby|entity
+georges|entity
+intoxicated|action
+raina|entity
+resulting|action
+streamed|action
+boite|entity
+evaluating|action
+facilitate|action
+medications|entity
+programmed|action
+afterward|action
+marseille|entity
+powdered|action
+cassandra|entity
+ibuprofen|entity
+bill clinton|entity
+isabelle|entity
+colombian|entity
+vert|entity
+bouquet|entity
+faa|entity
+susie|entity
+buckets|entity
+juh|entity
+katia|entity
+acra|entity
+antigua|entity
+benadryl|entity
+carmel|entity
+implemented|action
+merc|entity
+secured|action
+deployed|action
+pou|entity
+quan|entity
+identifying|action
+julien|entity
+repaired|action
+thor|entity
+travelled|action
+reside|action
+sender|entity
+belgian|entity
+u.n.|entity
+caribe|entity
+coeur|entity
+confirming|action
+designated|action
+devastated|action
+feared|action
+intact|action
+dominique|entity
+prolonged|action
+transformed|action
+camille|entity
+toddlers|entity
+usgs|entity
+nutritional|entity
+outdated|action
+costing|action
+shifted|action
+dominated|action
+golf course|location
+hosp|entity
+labeled|action
+indicate|action
+paloma|entity
+devant|entity
+slid|action
+avis|entity
+north american|entity
+shaken|action
+st louis|location
+climbed|action
+cynthia|entity
+establish|action
+incorporated|action
+anticipating|action
+gregory|entity
+musso|entity
+esther|entity
+gerald|entity
+manifest|entity
+relieve|action
+exploding|action
+pier|location
+reopen|action
+scrambled|action
+expertise|action
+jacques|entity
+lionel|entity
+occurred|action
+divorced|action
+shifting|action
+shirley|entity
+assure|action
+destined|action
+foley|entity
+margaret|entity
+recieved|action
+eddy|entity
+pnh|entity
+mapping|action
+transferred|action
+collected|action
+drained|action
+rte|entity
+idf|entity
+nph|entity
+toto|entity
+organised|action
+erick|entity
+sophia|entity
+assumed|action
+gbs|entity
+measuring|action
+cherche|entity
+panama|entity
+orange county|entity
+crushing|action
+handled|action
+requesting|action
+repost|action
+toothpaste|entity
+sra|entity
+us embassy|entity
+encouraged|action
+alexandre|entity
+operate|action
+alexandra|entity
+surviving|action
+bridges|entity
+chapel|location
+christine|entity
+nouvel|entity
+meyer|entity
+alexis|entity
+pouring|action
+patricia|entity
+angelo|entity
+bianca|entity
+chloe|entity
+erik|entity
+permit|action
+proving|action
+nicolas|entity
+referred|action
+sabrina|entity
+balcony|location
+north america|entity
+resolved|action
+cared|action
+leur|entity
+ferry|action
+louise|entity
+skinned|action
+approaching|action
+google earth|entity
+advise|action
+monroe|entity
+shortage|entity
+trace|action
+lynn|entity
+communicate|action
+onu|entity
+lawn|action
+milton|entity
+collapse|action
+bradley|entity
+swollen|action
+detailed|action
+milo|entity
+alo|entity
+dried|action
+portuguese|entity
+evaluated|action
+michel|entity
+lifted|action
+unemployed|action
+comparing|action
+kiki|entity
+stanley|entity
+tyson|entity
+conduct|action
+overwhelmed|action
+dumped|action
+fbi|entity
+palace|entity
+borders|entity
+mere|action
+lined|action
+associated|action
+forcing|action
+pharmacy|entity
+democracy|entity
+floating|action
+hiv|entity
+camping|action
+caribbean|entity
+ricardo|entity
+maintain|action
+bleach|action
+ward|action
+issued|action
+ville|entity
+international airport|entity
+releasing|action
+translation|entity
+structure|entity
+improving|action
+flo|entity
+searched|action
+abandoned|action
+cargo|entity
+pierre|entity
+supermarket|location
+gather|action
+noah|entity
+batteries|entity
+loading|action
+toni|entity
+cliff|entity
+shipped|action
+developed|action
+knocking|action
+placed|action
+funding|action
+directed|action
+donald|entity
+monitoring|action
+dal|entity
+threatening|action
+veronica|entity
+andrea|entity
+claudia|entity
+begun|action
+becky|entity
+dye|entity
+colbert|entity
+improved|action
+graham|entity
+atlantic|entity
+blocking|action
+needing|action
+frustrated|action
+lui|entity
+exposed|action
+served|action
+handed|action
+tsunami|entity
+caring|action
+organization|entity
+cotton|entity
+guerra|entity
+attempting|action
+lima|entity
+papi|entity
+reaching|action
+breathing|action
+landing|action
+relief|entity
+alegria|entity
+embassy|entity
+pastor|entity
+fixing|action
+nancy|entity
+scale|entity
+sandra|entity
+cracked|action
+civil|entity
+texted|action
+answering|action
+nico|entity
+watson|entity
+nbc|entity
+returned|action
+yelling|action
+mta|entity
+virginia|entity
+steven|entity
+burned|action
+randy|entity
+signal|entity
+angle|entity
+delivered|action
+wilson|entity
+emily|entity
+confirm|action
+filling|action
+housing|action
+shaking|action
+dean|entity
+cruz|entity
+mina|entity
+lambert|entity
+caused|action
+supporting|action
+attending|action
+carol|entity
+dealing|action
+gate|entity
+donate|action
+spelling|action
+boarding|action
+produced|action
+visiting|action
+promised|action
+anna|entity
+recorded|action
+seemed|action
+eaten|action
+pam|entity
+engaged|action
+ace|entity
+roberto|entity
+simon|entity
+grew|action
+pp|entity
+jessica|entity
+jose|entity
+forgotten|action
+updating|action
+accepting|action
+pdf|entity
+offering|action
+exhausted|action
+settle|action
+victoria|entity
+spain|entity
+prepared|action
+iii|entity
+tank|action
+lisa|entity
+perform|action
+suggest|action
+necesito|entity
+cutting|action
+william|entity
+multiple|action
+bridge|entity
+forced|action
+mexican|entity
+listed|action
+lift|action
+improve|action
+nurse|entity
+fab|entity
+appear|action
+plastic|entity
+prepare|action
+junior|entity
+chest|entity
+involved|action
+finance|entity
+held|action
+kay|entity
+charles|entity
+managed|action
+announce|action
+parking|action
+exist|action
+alcohol|entity
+mari|entity
+hitting|action
+solution|entity
+register|action
+edward|entity
+saved|action
+hiring|action
+cnn|entity
+difficult|action
+estaba|entity
+dig|action
+japanese|entity
+host|action
+shipping|action
+ella|entity
+completed|action
+sony|entity
+mario|entity
+gotten|action
+situation|entity
+force|action
+ali|entity
+mary|entity
+picked|action
+moved|action
+written|action
+garden|entity
+roads|location
+prefer|action
+turning|action
+walked|action
+father|entity
+holding|action
+maria|entity
+push|action
+cooking|action
+posting|action
+martin|entity
+checking|action
+harry|entity
+sharing|action
+released|action
+breathe|action
+usar|entity
+stream|action
+fighting|action
+sam|entity
+hanging|action
+finding|action
+cousin|entity
+bbc|entity
+my brother|entity
+acting|action
+stress|action
+source|entity
+kept|action
+learned|action
+cleaning|action
+joining|action
+sold|action
+entered|action
+paul|entity
+killing|action
+pull|action
+station|location
+police|entity
+offer|action
+expect|action
+imagine|action
+fear|action
+clear|action
+jeff|entity
+spent|action
+turned|action
+taken|action
+clothes|entity
+updated|action
+pray|action
+skype|entity
+bank|location
+shoot|action
+view|action
+wife|entity
+currently|entity
+falling|action
+hoping|action
+sing|action
+quick|action
+grande|entity
+clean|action
+loving|action
+speak|action
+driving|action
+click|action
+inside|action
+sitting|action
+gracias|entity
+chris|entity
+catch|action
+writing|action
+group|entity
+understand|action
+quiero|entity
+happen|action
+john|entity
+brother|entity
+wake|action
+college|entity
+eating|action
+fall|action
+missed|action
+radio|entity
+outside|action
+wanted|action
+email|entity
+excited|action
+welcome|action
+support|action
+media|entity
+kids|entity
+city|entity
+wrong|action
+thinking|action
+feeling|action
+photo|entity
+end|action
+guy|entity
+buy|action
+facebook|entity
+sama|entity
+maybe|action
+money|entity
+youtube|entity
+stop|action
+watching|action
+video|entity

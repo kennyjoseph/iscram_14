@@ -1,0 +1,34 @@
+Hey guys-
+
+Thanks for helping with this. What I need you to do is code each tweet as one of the tags below (O, R or N) (Peter, its from Vieweg's dissertation). Esp. note example #4 for N- in her dissertation she said one coder was tagging requests for donations as being situational awareness, which it is note. 
+
+Feel free to provide the labels however is easiest.  I'm hoping it shouldn't take very long.
+
+Tweets attached- they're utf-8, so something non-excel probably would be best but again, whatever is easiest.
+O: Off-topic: Definition: “O” tweets do not contain any information that mentions or relates to the emergency event.
+
+Examples:
+
+1. OK09: Think I'm going to knit while watching FernGully. Such a great message, loved this movie as a kid
+
+R: On-topic, relevant to situational awareness: Definition: “R” tweets are relevant to situational awareness; they contain information that provides tactical, actionable information that can aid people in making decisions, advise others on how to obtain specific information from various sources, or offer immediate post impact help to those affected by the mass emergency.
+
+Examples:
+
+1. OK09: Velma OK: traffic restricted/all persons must report in at Town Hall. Residents are asked to seek shelter outside of the area. #OKFires
+
+2. RR09: Highway 18 closed in Wyndmere, water over I-94 @Buff-Alice exit. Lots of roads with water over 1 or2 lanes in southeast ND and west MN
+
+3. RR10: Wow, this is so weird. The sandbags and dikes are in place and now we just wait. Never been this far ahead of the game before.
+
+4. Haiti: If you have family in Haiti, the US Govt set up a number for u to call & they will help locate ur family 888 407 4747 (Via @GlobalGrind)
+
+N: On-topic, irrelevant to situational awareness Definition: “N” tweets are on-topic, but do not contain information that contributes to situational awareness. These tweet are on-topic because they mention the emergency by including offers of prayer and support in relation to the emergency, solicitations for donations to charities, or casual reference to the emergency event.
+
+1. OK09: RT @elmofromok: watching oklahoma burn is surreal #oklahomaburning
+
+2. RR09: And I thank my friends at the Flag 1100 AM for the opportunity to be on their station during our flood crisis. Nice Studios, great toys!
+
+3. RR10: Floods are good for business. About 30 National Guard troops just showed up at the bar.
+
+4. Haiti: New blog post coming soon. In the meantime, if you're looking to give directly towards helping people in Haiti go here: http://bit.ly/5n6PK6
