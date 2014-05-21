@@ -2,8 +2,6 @@ ISCRAM 2014
 =================
 This gives the code for the following article:
 
-Joseph, K., Landwehr, P.M., Carley, K.M. and Pfeffer, J. Exploring the dangers of pre-defined keyword sampling on Twitter.  To (hopefully) appear in ISCRAM '14
-
 ```
 @inproceedings{joseph_approach_2014,
 	address = {State College, {PA}},
