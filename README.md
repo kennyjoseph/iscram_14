@@ -4,6 +4,17 @@ This gives the code for the following article:
 
 Joseph, K., Landwehr, P.M., Carley, K.M. and Pfeffer, J. Exploring the dangers of pre-defined keyword sampling on Twitter.  To (hopefully) appear in ISCRAM '14
 
+```
+@inproceedings{joseph_approach_2014,
+	address = {State College, {PA}},
+	title = {An Approach to Selecting Keywords to Track on Twitter During a Disaster},
+	booktitle = {Proceedings of the 11th International Conference on Information Systems for Crisis Response and Management},
+	author = {Joseph, Kenneth and Landwehr, Peter L. and Carley, Kathleen M.},
+	year = {2014},
+	shorttitle = {{ISCRAM'14}}
+}
+```
+
 As always, apologies for any unclear parts of the code, please email with questions.  This is hopefully the last article that I'll write where I'm going back
 to work that was done when I was still fairly unfamiliar with R and python, so hopefully furture repos will be nicer :)
 
